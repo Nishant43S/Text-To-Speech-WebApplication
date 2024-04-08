@@ -13,7 +13,7 @@ https://github.com/Nishant43S/Text-To-Speech-WebApplication/assets/165580472/2f1
 <strong>How to use<strong>
 <p>step 1: install all necessary librarys that are used in this project</p>
 <p>step 2: open cmd or terminal where you install app file</p>
-<p>step 3: run command- python -m streamlit run TextTospeech.py</p>
+<p>step 3: run command: python -m streamlit run TextTospeech.py</p>
 
 
 <big>Libraries</big>
